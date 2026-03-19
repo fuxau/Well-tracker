@@ -6,11 +6,10 @@
 
 ## 🏗️ Architecture du Projet
 
-Le projet est structuré en trois piliers majeurs :
+Le projet est structuré en deux piliers majeurs :
 
 1.  **[Mobile App (Well_tracker)](https://github.com/Boinet-Elie/Well_tracker)** : Interface utilisateur développée en **Flutter** permettant la saisie et la visualisation des données de santé (sommeil, pas, calories).
 2.  **[AI Engine (IA-Well-Tracker)](https://github.com/fuxau/IA-Well-Tracker)** : Module de Data Science en **Python** analysant les corrélations de données pour générer des scores de bien-être.
-3.  **[Cloud Infrastructure (Azure)](https://portal.azure.com)** : Hébergement des services et des modèles pour permettre un accès distant et une persistance des données sécurisée.
 
 ---
 
